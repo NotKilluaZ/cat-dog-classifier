@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model and data files
+*.pth
+*.h5
+*.zip
+*.jpg
+*.jpeg
+*.png
+
+# macOS system file
+.DS_Store
